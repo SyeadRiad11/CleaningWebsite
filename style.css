@@ -760,7 +760,7 @@ margin-bottom: 2.5rem;
     margin: 16rem auto 5rem auto;
     max-width: 100%;
      padding: 5rem 0;
-    background-image: linear-gradient(rgba(238, 238, 238, 0.808), rgba(247, 247, 247, 0.945)), url('../images/background.png') ;
+    background-image: linear-gradient(rgba(238, 238, 238, 0.808), rgba(247, 247, 247, 0.945)), url('.//images/background.png') ;
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;   
@@ -1023,7 +1023,7 @@ New discount start (sixth start)
     margin: 16rem auto 10rem auto;
     max-width: 100%;
      padding: 5rem 0;
-  background-image: url('../images/abc.png');
+  background-image: url('.//images/abc.png');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat; 
